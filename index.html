@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#17130f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>Jazz Chord Trainer</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="app">
+  <header>
+    <div>
+      <h1>Jazz Chord Trainer</h1>
+      <p id="setName">Autumn Leaves · Current Voicings</p>
+    </div>
+    <button class="iconbtn" id="settingsBtn" aria-label="Settings">⚙</button>
+  </header>
+
+  <section class="card drill">
+    <div class="eyebrow" id="counter">Ready</div>
+    <div class="prompt" id="prompt">Tap Start</div>
+    <div class="subprompt" id="subprompt">Out-of-context chord recall</div>
+
+    <div id="revealPanel" class="reveal hidden">
+      <div><span>LH</span><strong id="lhNotes"></strong></div>
+      <div><span>RH</span><strong id="rhNotes"></strong></div>
+      <small id="revealNote"></small>
+    </div>
+
+    <div class="primary-actions">
+      <button id="revealBtn" disabled>Reveal</button>
+      <button class="accent" id="nextBtn">Start</button>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div><strong id="seenStat">0</strong><span>shown</span></div>
+    <div><strong id="cleanStat">0</strong><span>without reveal</span></div>
+    <div><strong id="revealStat">0</strong><span>reveals</span></div>
+  </section>
+
+  <dialog id="settings">
+    <form method="dialog">
+      <div class="dialog-head"><h2>Practice Settings</h2><button value="cancel" class="iconbtn">×</button></div>
+      <label>Practice set
+        <select id="setSelect"></select>
+      </label>
+      <label>Advance
+        <select id="modeSelect">
+          <option value="manual">Manual — tap Next</option>
+          <option value="timed">Timed</option>
+        </select>
+      </label>
+      <label id="secondsRow">Seconds per chord
+        <select id="secondsSelect">
+          <option>3</option><option selected>5</option><option>7</option><option>10</option>
+        </select>
+      </label>
+      <label class="check"><input type="checkbox" id="specificPrompt"> Include voicing/inversion instruction when a library item defines one</label>
+      <p class="help">The library is designed to grow with your repertoire. Future sets can contain alternate voicings and specific inversions without changing the trainer.</p>
+      <button class="accent wide" value="default" id="saveSettings">Done</button>
+    </form>
+  </dialog>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
