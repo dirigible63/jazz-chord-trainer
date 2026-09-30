@@ -4,6 +4,9 @@
 <h3>Practice</h3><button class="tile" id="lessonsBtn"><b>Lessons</b><small>Browse all 24 days · mark/unmark completion</small></button>
 <button class="tile" id="reviewBtn"><b>Review · All Learned</b><small id="reviewCount">0 learned voicings</small></button></section>
 <section id="lessons" class="screen hidden"><h2>Lessons</h2><p class="muted">Future days are visible. Only completed days feed the review pool.</p><div id="lessonList"></div></section>
-<section id="lesson" class="screen hidden"><button class="back" id="backLessons">← All lessons</button><div class="lessonCard"><span id="dayLabel"></span><h2 id="lessonTitle"></h2><p id="lessonSummary"></p><div id="lessonVoicings"></div><button id="completeBtn" class="accent wide"></button></div></section>
+<section id="lesson" class="screen hidden"><button class="back" id="backLessons">← All lessons</button><div class="lessonCard"><span id="dayLabel"></span><h2 id="lessonTitle"></h2><p id="lessonSummary"></p>
+<div id="lessonInstructions"></div>
+<div id="lessonVoicings"></div>
+<div id="handSeparation"></div><button id="completeBtn" class="accent wide"></button></div></section>
 <section id="review" class="screen hidden"><button class="back" id="backHome">← Home</button><div class="drill"><div class="eyebrow" id="counter">All Learned</div><div class="prompt" id="prompt">Tap Start</div><div class="sub" id="promptLabel">Completed lesson material only</div><div id="reveal" class="reveal invisible"><div><span>LH</span><strong id="lh"></strong></div><div><span>RH</span><strong id="rh"></strong></div><small>Notes shown low → high within each hand.</small></div><div class="actions"><button id="revealBtn" disabled>Reveal</button><button class="accent" id="nextBtn">Start</button></div></div></section>
 </main><script src="app.js"></script></body></html>

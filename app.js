@@ -25,8 +25,10 @@ function renderLessons(){
 function openLesson(day){
  selectedDay=day;let l=course.lessons.find(x=>x.day===day);$('dayLabel').textContent=`DAY ${day} · ${completed(day)?'COMPLETED':'NOT COMPLETED'}`;
  $('lessonTitle').textContent=l.title;$('lessonSummary').textContent=l.summary;
- $('lessonVoicings').innerHTML=l.items.length?'<h3>Voicings in this lesson</h3>':'<p class="muted">No new flashcard voicings are introduced on this day.</p>';
+ $('lessonInstructions').innerHTML='<h3>Today’s 33-minute session</h3>'+l.instructions.map(s=>`<div class="step"><b>${s.time} min</b><p>${s.text}</p></div>`).join('');
+ $('lessonVoicings').innerHTML=l.items.length?'<h3>Today’s voicings</h3>':'<p class="muted">No new flashcard voicings are introduced on this day.</p>';
  l.items.forEach(i=>{let d=document.createElement('div');d.className='voicing';d.innerHTML=`<b>${i.symbol} · ${i.label}</b><small>LH ${i.lh.join('–')} · RH ${i.rh.join('–')}</small>`;$('lessonVoicings').appendChild(d)});
+ let h=l.handSeparation;$('handSeparation').innerHTML=`<h3>Hand separation · ${h.stage}</h3><div class="handbox"><small>${h.base}</small><p>${h.text}</p></div>`;
  $('completeBtn').textContent=completed(day)?'Mark as Not Complete':'Mark Day Complete';show('lesson')
 }
 function toggleComplete(){

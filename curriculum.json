@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "course": "Autumn Leaves — 4-Week Chord Voicing Program",
   "note": "Based on Version 3.1 of the current practice program.",
   "lessons": [
@@ -64,7 +64,34 @@
             "C"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Shape preparation: play the opening major ii–V–I plus Cmaj7 printed below without metronome. Place each chord carefully. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Timed progression: metronome 50. Four beats per chord. Play the printed progression 6 times. Do not choose alternate inversions."
+        },
+        {
+          "time": "15–18",
+          "text": "Movement observation: play the sequence slowly once. On every change, notice which RH notes stay on the same piano keys. Do not calculate inversion names."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work only on the first 4 bars of your chart. Play chords only: LH root + RH chord. No melody."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's numbered stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 1 · Days 1–3",
+        "text": "Minute 1 LH only. Minute 2 RH only. Minutes 3–5 both hands together, one note in each hand per beat. Think vertically: C+E, G+G, A+C, G+G, F+A, C+G, F+F, G+D."
+      }
     },
     {
       "day": 2,
@@ -127,7 +154,34 @@
             "C"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Shape preparation: play the opening major ii–V–I plus Cmaj7 printed below without metronome. Place each chord carefully. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Timed progression: metronome 50. Four beats per chord. Play the printed progression 6 times. Do not choose alternate inversions."
+        },
+        {
+          "time": "15–18",
+          "text": "Movement observation: play the sequence slowly once. On every change, notice which RH notes stay on the same piano keys. Do not calculate inversion names."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work only on the first 4 bars. Play chords only. Try to look at the chord symbol before looking at the voicing table; if the hand shape does not come immediately, look."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's numbered stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 1 · Days 1–3",
+        "text": "Minute 1 LH only. Minute 2 RH only. Minutes 3–5 both hands together, one note in each hand per beat. Think vertically: C+E, G+G, A+C, G+G, F+A, C+G, F+F, G+D."
+      }
     },
     {
       "day": 3,
@@ -231,7 +285,34 @@
             "B"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Shape preparation: play the complete opening progression printed below without metronome. Place each chord carefully. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Timed progression: metronome 50. Four beats per chord. Play the printed progression 6 times. Do not choose alternate inversions."
+        },
+        {
+          "time": "15–18",
+          "text": "Movement observation: play the sequence slowly once. On every change, notice which RH notes stay on the same piano keys. Do not calculate inversion names."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work only on the first 8 bars. Play chords only. Use the prescribed shapes below."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's numbered stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 1 · Days 1–3",
+        "text": "Minute 1 LH only. Minute 2 RH only. Minutes 3–5 both hands together, one note in each hand per beat. Think vertically: C+E, G+G, A+C, G+G, F+A, C+G, F+F, G+D."
+      }
     },
     {
       "day": 4,
@@ -349,7 +430,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Shape preparation: play the complete opening progression printed below without metronome. Place each chord carefully. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Timed progression: metronome 50. Four beats per chord. Play the printed progression 6 times. Do not choose alternate inversions."
+        },
+        {
+          "time": "15–18",
+          "text": "Movement observation: play the sequence slowly once. On every change, notice which RH notes stay on the same piano keys. Do not calculate inversion names."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work only on the first 8 bars. First play chords only once. Then play the melody from your fake book with LH roots only."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's numbered stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 2 · Days 4–6",
+        "text": "Minute 1 LH only. Minute 2 RH eighth-note pairs only: E–G | G–E | C–E | G–E | A–C | G–E | F–A | D–F. Minutes 3–5 combine: each LH quarter note continues while RH plays its two-note pair."
+      }
     },
     {
       "day": 5,
@@ -467,7 +575,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Shape preparation: play the complete opening progression printed below without metronome. Place each chord carefully. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Timed progression: metronome 50. Four beats per chord. Play the printed progression 6 times. Do not choose alternate inversions."
+        },
+        {
+          "time": "15–18",
+          "text": "Movement observation: play the sequence slowly once. On every change, notice which RH notes stay on the same piano keys. Do not calculate inversion names."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work only on the first 8 bars. Play melody RH. LH plays roots. On long melody notes, do not add extra harmony yet."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's numbered stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 2 · Days 4–6",
+        "text": "Minute 1 LH only. Minute 2 RH eighth-note pairs only: E–G | G–E | C–E | G–E | A–C | G–E | F–A | D–F. Minutes 3–5 combine: each LH quarter note continues while RH plays its two-note pair."
+      }
     },
     {
       "day": 6,
@@ -585,7 +720,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Shape preparation: play the complete opening progression printed below without metronome. Place each chord carefully. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Timed progression: metronome 50. Four beats per chord. Play the printed progression 6 times. Do not choose alternate inversions."
+        },
+        {
+          "time": "15–18",
+          "text": "Movement observation: play the sequence slowly once. On every change, notice which RH notes stay on the same piano keys. Do not calculate inversion names."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Play the first 8 bars three times: (1) chords only, (2) melody + LH roots, (3) melody + LH roots again without stopping."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's numbered stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 2 · Days 4–6",
+        "text": "Minute 1 LH only. Minute 2 RH eighth-note pairs only: E–G | G–E | C–E | G–E | A–C | G–E | F–A | D–F. Minutes 3–5 combine: each LH quarter note continues while RH plays its two-note pair."
+      }
     },
     {
       "day": 7,
@@ -647,7 +809,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Place each printed chord carefully without metronome. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Metronome 50. Four beats per chord. Repeat the printed sequence 6 times."
+        },
+        {
+          "time": "15–18",
+          "text": "Play once more and identify common tones by sight: a note that remains on the same key is a common tone. No inversion calculation."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work on the first 16 bars. Chords only."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 3 · Days 7–12",
+        "text": "Same as Stage 2. Do not increase tempo. Your only goal is to complete the 8-beat pattern without the LH copying the RH rhythm."
+      }
     },
     {
       "day": 8,
@@ -709,7 +898,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Place each printed chord carefully without metronome. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Metronome 50. Four beats per chord. Repeat the printed sequence 6 times."
+        },
+        {
+          "time": "15–18",
+          "text": "Play once more and identify common tones by sight: a note that remains on the same key is a common tone. No inversion calculation."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work on the first 16 bars. Melody RH + LH roots."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 3 · Days 7–12",
+        "text": "Same as Stage 2. Do not increase tempo. Your only goal is to complete the 8-beat pattern without the LH copying the RH rhythm."
+      }
     },
     {
       "day": 9,
@@ -772,7 +988,34 @@
             "D"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Place each printed chord carefully without metronome. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Metronome 50. Four beats per chord. Repeat the printed sequence 6 times."
+        },
+        {
+          "time": "15–18",
+          "text": "Play once more and identify common tones by sight: a note that remains on the same key is a common tone. No inversion calculation."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Work on the next section containing Em7 – A7 – Dm7 – G7. Chords only; use your chart to locate it."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 3 · Days 7–12",
+        "text": "Same as Stage 2. Do not increase tempo. Your only goal is to complete the 8-beat pattern without the LH copying the RH rhythm."
+      }
     },
     {
       "day": 10,
@@ -835,7 +1078,34 @@
             "D"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Place each printed chord carefully without metronome. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Metronome 50. Four beats per chord. Repeat the printed sequence 6 times."
+        },
+        {
+          "time": "15–18",
+          "text": "Play once more and identify common tones by sight: a note that remains on the same key is a common tone. No inversion calculation."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Play that same section again, melody RH + LH roots."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 3 · Days 7–12",
+        "text": "Same as Stage 2. Do not increase tempo. Your only goal is to complete the 8-beat pattern without the LH copying the RH rhythm."
+      }
     },
     {
       "day": 11,
@@ -953,7 +1223,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Place each printed chord carefully without metronome. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Metronome 50. Four beats per chord. Repeat the printed sequence 6 times."
+        },
+        {
+          "time": "15–18",
+          "text": "Play once more and identify common tones by sight: a note that remains on the same key is a common tone. No inversion calculation."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Play the whole form, chords only. If a chord is not immediately available, use root position and continue."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 3 · Days 7–12",
+        "text": "Same as Stage 2. Do not increase tempo. Your only goal is to complete the 8-beat pattern without the LH copying the RH rhythm."
+      }
     },
     {
       "day": 12,
@@ -1071,7 +1368,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Place each printed chord carefully without metronome. Repeat the sequence 3 times."
+        },
+        {
+          "time": "5–15",
+          "text": "Metronome 50. Four beats per chord. Repeat the printed sequence 6 times."
+        },
+        {
+          "time": "15–18",
+          "text": "Play once more and identify common tones by sight: a note that remains on the same key is a common tone. No inversion calculation."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Play the whole form: melody RH + LH roots. Do not stop."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 3 · Days 7–12",
+        "text": "Same as Stage 2. Do not increase tempo. Your only goal is to complete the 8-beat pattern without the LH copying the RH rhythm."
+      }
     },
     {
       "day": 13,
@@ -1162,7 +1486,34 @@
             "D"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play the basic opening progression once from the Week 1 shapes."
+        },
+        {
+          "time": "5–15",
+          "text": "Play the guide-tone table 6 times. LH root + the two printed RH notes."
+        },
+        {
+          "time": "15–18",
+          "text": "Cover the RH column and attempt the sequence once. If you hesitate more than about 3 seconds, uncover it immediately."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: First 8 bars: chords only, using guide tones."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 4 · Days 13–18",
+        "text": "LH continues the same quarter-note pattern. RH plays the original quarter-note melody for one pass, then the eighth-note-pair version for one pass. Alternate for five minutes."
+      }
     },
     {
       "day": 14,
@@ -1253,7 +1604,34 @@
             "D"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play the basic opening progression once from the Week 1 shapes."
+        },
+        {
+          "time": "5–15",
+          "text": "Play the guide-tone table 6 times. LH root + the two printed RH notes."
+        },
+        {
+          "time": "15–18",
+          "text": "Cover the RH column and attempt the sequence once. If you hesitate more than about 3 seconds, uncover it immediately."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: First 8 bars: melody RH + LH roots. Between melody phrases, try one guide-tone shell."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 4 · Days 13–18",
+        "text": "LH continues the same quarter-note pattern. RH plays the original quarter-note melody for one pass, then the eighth-note-pair version for one pass. Alternate for five minutes."
+      }
     },
     {
       "day": 15,
@@ -1344,7 +1722,34 @@
             "D"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play the basic opening progression once from the Week 1 shapes."
+        },
+        {
+          "time": "5–15",
+          "text": "Play the guide-tone table 6 times. LH root + the two printed RH notes."
+        },
+        {
+          "time": "15–18",
+          "text": "Cover the RH column and attempt the sequence once. If you hesitate more than about 3 seconds, uncover it immediately."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Whole form: chords only. Use guide tones whenever a full chord is not immediate."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 4 · Days 13–18",
+        "text": "LH continues the same quarter-note pattern. RH plays the original quarter-note melody for one pass, then the eighth-note-pair version for one pass. Alternate for five minutes."
+      }
     },
     {
       "day": 16,
@@ -1449,7 +1854,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play the basic opening progression once from the Week 1 shapes."
+        },
+        {
+          "time": "5–15",
+          "text": "Play the colour-voicing table 6 times. Do not alter the shapes."
+        },
+        {
+          "time": "15–18",
+          "text": "Cover the RH column and attempt the sequence once. If you hesitate more than about 3 seconds, uncover it immediately."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: First 8 bars: chords only, using the printed colour voicings."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 4 · Days 13–18",
+        "text": "LH continues the same quarter-note pattern. RH plays the original quarter-note melody for one pass, then the eighth-note-pair version for one pass. Alternate for five minutes."
+      }
     },
     {
       "day": 17,
@@ -1554,7 +1986,34 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play the basic opening progression once from the Week 1 shapes."
+        },
+        {
+          "time": "5–15",
+          "text": "Play the colour-voicing table 6 times. Do not alter the shapes."
+        },
+        {
+          "time": "15–18",
+          "text": "Cover the RH column and attempt the sequence once. If you hesitate more than about 3 seconds, uncover it immediately."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Whole form: melody RH + LH roots/shells. Use a richer voicing only when it arrives immediately."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 4 · Days 13–18",
+        "text": "LH continues the same quarter-note pattern. RH plays the original quarter-note melody for one pass, then the eighth-note-pair version for one pass. Alternate for five minutes."
+      }
     },
     {
       "day": 18,
@@ -1659,43 +2118,214 @@
             "F♯"
           ]
         }
-      ]
+      ],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play the basic opening progression once from the Week 1 shapes."
+        },
+        {
+          "time": "5–15",
+          "text": "Play the colour-voicing table 6 times. Do not alter the shapes."
+        },
+        {
+          "time": "15–18",
+          "text": "Cover the RH column and attempt the sequence once. If you hesitate more than about 3 seconds, uncover it immediately."
+        },
+        {
+          "time": "18–28",
+          "text": "Autumn Leaves: Whole form twice: first chords only; second melody + simple LH. Neither pass should stop."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 4 · Days 13–18",
+        "text": "LH continues the same quarter-note pattern. RH plays the original quarter-note melody for one pass, then the eighth-note-pair version for one pass. Alternate for five minutes."
+      }
     },
     {
       "day": 19,
       "title": "Turn the material into music",
       "summary": "Melody → one chord-tone improvisation chorus → melody.",
-      "items": []
+      "items": [],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play Am7 – D7 – Gmaj7 and F♯m7♭5 – B7 – Em three times each using familiar Week 1 shapes."
+        },
+        {
+          "time": "5–10",
+          "text": "Play the opening colour voicings once, then the Em7 – A7 – Dm7 – G7 turnaround once."
+        },
+        {
+          "time": "10–28",
+          "text": "Autumn Leaves: Melody once → one chord-tone improvisation chorus → melody once. LH roots only during improvisation."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 5 · Days 19–24",
+        "text": "Keep the same LH pattern. RH alternates one bar of quarter notes and one bar of eighth-note pairs. If coordination breaks, immediately return to Stage 3 for the remainder of the five minutes."
+      }
     },
     {
       "day": 20,
       "title": "Turn the material into music",
       "summary": "Same form; leave at least one full beat of silence every two bars while improvising.",
-      "items": []
+      "items": [],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play Am7 – D7 – Gmaj7 and F♯m7♭5 – B7 – Em three times each using familiar Week 1 shapes."
+        },
+        {
+          "time": "5–10",
+          "text": "Play the opening colour voicings once, then the Em7 – A7 – Dm7 – G7 turnaround once."
+        },
+        {
+          "time": "10–28",
+          "text": "Autumn Leaves: Same form. During improvisation, leave at least one full beat of silence every two bars."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 5 · Days 19–24",
+        "text": "Keep the same LH pattern. RH alternates one bar of quarter notes and one bar of eighth-note pairs. If coordination breaks, immediately return to Stage 3 for the remainder of the five minutes."
+      }
     },
     {
       "day": 21,
       "title": "Turn the material into music",
       "summary": "Melody; add a guide-tone shell under a few long notes when comfortable.",
-      "items": []
+      "items": [],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play Am7 – D7 – Gmaj7 and F♯m7♭5 – B7 – Em three times each using familiar Week 1 shapes."
+        },
+        {
+          "time": "5–10",
+          "text": "Play the opening colour voicings once, then the Em7 – A7 – Dm7 – G7 turnaround once."
+        },
+        {
+          "time": "10–28",
+          "text": "Autumn Leaves: Melody once. Add a guide-tone shell under a few long melody notes only when comfortable."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 5 · Days 19–24",
+        "text": "Keep the same LH pattern. RH alternates one bar of quarter notes and one bar of eighth-note pairs. If coordination breaks, immediately return to Stage 3 for the remainder of the five minutes."
+      }
     },
     {
       "day": 22,
       "title": "Turn the material into music",
       "summary": "Melody → improv → melody; LH roots and occasional shells; no stopping.",
-      "items": []
+      "items": [],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play Am7 – D7 – Gmaj7 and F♯m7♭5 – B7 – Em three times each using familiar Week 1 shapes."
+        },
+        {
+          "time": "5–10",
+          "text": "Play the opening colour voicings once, then the Em7 – A7 – Dm7 – G7 turnaround once."
+        },
+        {
+          "time": "10–28",
+          "text": "Autumn Leaves: Melody → improv → melody. LH may use roots and occasional shells. No stopping."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 5 · Days 19–24",
+        "text": "Keep the same LH pattern. RH alternates one bar of quarter notes and one bar of eighth-note pairs. If coordination breaks, immediately return to Stage 3 for the remainder of the five minutes."
+      }
     },
     {
       "day": 23,
       "title": "Turn the material into music",
       "summary": "Record one complete melody → improv → melody performance if convenient.",
-      "items": []
+      "items": [],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play Am7 – D7 – Gmaj7 and F♯m7♭5 – B7 – Em three times each using familiar Week 1 shapes."
+        },
+        {
+          "time": "5–10",
+          "text": "Play the opening colour voicings once, then the Em7 – A7 – Dm7 – G7 turnaround once."
+        },
+        {
+          "time": "10–28",
+          "text": "Autumn Leaves: Record one complete performance if convenient: melody → one improvised chorus → melody."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 5 · Days 19–24",
+        "text": "Keep the same LH pattern. RH alternates one bar of quarter notes and one bar of eighth-note pairs. If coordination breaks, immediately return to Stage 3 for the remainder of the five minutes."
+      }
     },
     {
       "day": 24,
       "title": "Turn the material into music",
       "summary": "Final continuous melody → improv → melody check; rich voicings only when automatic.",
-      "items": []
+      "items": [],
+      "instructions": [
+        {
+          "time": "0–5",
+          "text": "Play Am7 – D7 – Gmaj7 and F♯m7♭5 – B7 – Em three times each using familiar Week 1 shapes."
+        },
+        {
+          "time": "5–10",
+          "text": "Play the opening colour voicings once, then the Em7 – A7 – Dm7 – G7 turnaround once."
+        },
+        {
+          "time": "10–28",
+          "text": "Autumn Leaves: Final check: melody → one improvised chorus → melody, without restarting. Use rich voicings only when automatic."
+        },
+        {
+          "time": "28–33",
+          "text": "Hand separation: use today's stage below."
+        }
+      ],
+      "handSeparation": {
+        "base": "50 bpm · LH quarters: C – G – A – G | F – C – F – G · RH quarters: E – G – C – G | A – G – F – D",
+        "stage": "Stage 5 · Days 19–24",
+        "text": "Keep the same LH pattern. RH alternates one bar of quarter notes and one bar of eighth-note pairs. If coordination breaks, immediately return to Stage 3 for the remainder of the five minutes."
+      }
     }
-  ]
+  ],
+  "programGuidance": {
+    "dailyTime": "33 minutes, Monday–Saturday. Sunday off.",
+    "tempo": "Weeks 1–2: 50 bpm. Weeks 3–4: 60 bpm unless that prevents continuous playing. Slower is always allowed.",
+    "rule": "Do not stop during tune practice to generate and compare inversions. Use the prescribed shape when you know it. Otherwise use a simple root-position chord, shell, or LH root and continue.",
+    "hands": "In voicing drills, LH plays the printed single root. RH plays every printed RH note simultaneously, listed low to high. Root duplication is intentional."
+  }
 }
