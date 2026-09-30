@@ -4,6 +4,5 @@
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0f0d0b",
-  "theme_color": "#17130f",
-  "description": "Expandable jazz chord and voicing recall trainer."
+  "theme_color": "#17130f"
 }

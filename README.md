@@ -1,6 +1,10 @@
-# Jazz Chord Trainer V1.1
-
-Correction: Autumn Leaves quiz prompts now use the actual chord symbols:
-Am7, D7, Gmaj7, Cmaj7, F♯m7♭5, B7♭9, Em.
-
-Reveal retains the learned LH/RH voicing shapes. The service-worker cache name was also bumped so installed phones receive the corrected chord library.
+# Jazz Chord Trainer V1.2
+Major curriculum/progress update:
+- 24 freely browsable lesson days
+- reversible Mark Day Complete
+- completion stored locally on the phone/browser
+- All Learned review pool derived automatically from completed lessons
+- identical voicings deduplicated across days
+- shuffle-bag review and exact LH/RH reveal
+- curriculum based on Jazz Piano Practice Program Version 3.1
+Upload all files to the repository root, replacing the old app files. `chord-library.json` is no longer used and may be deleted.

@@ -1,0 +1,1701 @@
+{
+  "version": "1.2",
+  "course": "Autumn Leaves — 4-Week Chord Voicing Program",
+  "note": "Based on Version 3.1 of the current practice program.",
+  "lessons": [
+    {
+      "day": 1,
+      "title": "Opening: first four chords",
+      "summary": "First 4 bars, chords only. LH root + prescribed RH chord.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Opening recall",
+      "summary": "First 4 bars again; look at the chord symbol before checking the shape.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Complete opening progression",
+      "summary": "First 8 bars, chords only, using the prescribed Week 1 shapes.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Opening progression",
+      "summary": "First 8 bars: chords once, then melody with LH roots.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Opening progression",
+      "summary": "First 8 bars: melody RH with LH roots.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Opening progression",
+      "summary": "First 8 bars in three passes: chords; melody + roots; continuous melody + roots.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Minor ii–V–i",
+      "summary": "First 16 bars, chords only. Focus F♯m7♭5 → B7 → Em.",
+      "items": [
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Minor ii–V–i",
+      "summary": "First 16 bars, melody RH + LH roots.",
+      "items": [
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Turnaround",
+      "summary": "Locate Em7 → A7 → Dm7 → G7 and play chords only.",
+      "items": [
+        {
+          "reviewKey": "em7-basic",
+          "symbol": "Em7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "D",
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "a7-basic",
+          "symbol": "A7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C♯",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "dm7-basic",
+          "symbol": "Dm7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "C",
+            "D",
+            "F",
+            "A"
+          ]
+        },
+        {
+          "reviewKey": "g7-basic",
+          "symbol": "G7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F",
+            "G",
+            "B",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Turnaround",
+      "summary": "Same turnaround section, melody RH + LH roots.",
+      "items": [
+        {
+          "reviewKey": "em7-basic",
+          "symbol": "Em7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "D",
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "a7-basic",
+          "symbol": "A7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C♯",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "dm7-basic",
+          "symbol": "Dm7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "C",
+            "D",
+            "F",
+            "A"
+          ]
+        },
+        {
+          "reviewKey": "g7-basic",
+          "symbol": "G7",
+          "label": "Turnaround voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F",
+            "G",
+            "B",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Opening + minor ii–V–i",
+      "summary": "Whole form, chords only; keep moving.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Opening + minor ii–V–i",
+      "summary": "Whole form, melody RH + LH roots; do not stop.",
+      "items": [
+        {
+          "reviewKey": "am7-basic",
+          "symbol": "Am7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d7-basic",
+          "symbol": "D7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-basic",
+          "symbol": "Gmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-basic",
+          "symbol": "Cmaj7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-basic",
+          "symbol": "F♯m7♭5",
+          "label": "Week 1 voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "F♯",
+            "A",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "b7-basic",
+          "symbol": "B7",
+          "label": "Week 1 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "F♯",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "em-basic",
+          "symbol": "Em",
+          "label": "Week 1 voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "B7♭9 voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Guide tones",
+      "summary": "First 8 bars using LH root + RH guide tones.",
+      "items": [
+        {
+          "reviewKey": "am7-guide",
+          "symbol": "Am7",
+          "label": "Guide tones",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "C",
+            "G"
+          ]
+        },
+        {
+          "reviewKey": "d7-guide",
+          "symbol": "D7",
+          "label": "Guide tones",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-guide",
+          "symbol": "Gmaj7",
+          "label": "Guide tones",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "B",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-guide",
+          "symbol": "Cmaj7",
+          "label": "Guide tones",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-guide",
+          "symbol": "F♯m7♭5",
+          "label": "Guide tones",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "A",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "b7-guide",
+          "symbol": "B7",
+          "label": "Guide tones",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "A"
+          ]
+        },
+        {
+          "reviewKey": "em7-guide",
+          "symbol": "Em7",
+          "label": "Guide tones",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "G",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "title": "Guide tones",
+      "summary": "Melody + LH roots; try guide-tone shells between phrases.",
+      "items": [
+        {
+          "reviewKey": "am7-guide",
+          "symbol": "Am7",
+          "label": "Guide tones",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "C",
+            "G"
+          ]
+        },
+        {
+          "reviewKey": "d7-guide",
+          "symbol": "D7",
+          "label": "Guide tones",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-guide",
+          "symbol": "Gmaj7",
+          "label": "Guide tones",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "B",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-guide",
+          "symbol": "Cmaj7",
+          "label": "Guide tones",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-guide",
+          "symbol": "F♯m7♭5",
+          "label": "Guide tones",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "A",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "b7-guide",
+          "symbol": "B7",
+          "label": "Guide tones",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "A"
+          ]
+        },
+        {
+          "reviewKey": "em7-guide",
+          "symbol": "Em7",
+          "label": "Guide tones",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "G",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "title": "Guide-tone recall",
+      "summary": "Whole form, chords only; guide tones are the fallback.",
+      "items": [
+        {
+          "reviewKey": "am7-guide",
+          "symbol": "Am7",
+          "label": "Guide tones",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "C",
+            "G"
+          ]
+        },
+        {
+          "reviewKey": "d7-guide",
+          "symbol": "D7",
+          "label": "Guide tones",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "C"
+          ]
+        },
+        {
+          "reviewKey": "gmaj7-guide",
+          "symbol": "Gmaj7",
+          "label": "Guide tones",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "B",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "cmaj7-guide",
+          "symbol": "Cmaj7",
+          "label": "Guide tones",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "B"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-guide",
+          "symbol": "F♯m7♭5",
+          "label": "Guide tones",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "A",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "b7-guide",
+          "symbol": "B7",
+          "label": "Guide tones",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "D♯",
+            "A"
+          ]
+        },
+        {
+          "reviewKey": "em7-guide",
+          "symbol": "Em7",
+          "label": "Guide tones",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "G",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "title": "Colour voicings",
+      "summary": "First 8 bars using the prescribed colour voicings.",
+      "items": [
+        {
+          "reviewKey": "am9-colour",
+          "symbol": "Am9",
+          "label": "Colour voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d13-colour",
+          "symbol": "D13",
+          "label": "Colour voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "gmaj9-colour",
+          "symbol": "Gmaj9",
+          "label": "Colour voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj9-colour",
+          "symbol": "Cmaj9",
+          "label": "Colour voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-colour",
+          "symbol": "F♯m7♭5",
+          "label": "Colour voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "A",
+            "C",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "Colour voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "em9-colour",
+          "symbol": "Em9",
+          "label": "Colour voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "G",
+            "B",
+            "D",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "title": "Colour voicings",
+      "summary": "Whole form; use richer voicings only when immediate.",
+      "items": [
+        {
+          "reviewKey": "am9-colour",
+          "symbol": "Am9",
+          "label": "Colour voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d13-colour",
+          "symbol": "D13",
+          "label": "Colour voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "gmaj9-colour",
+          "symbol": "Gmaj9",
+          "label": "Colour voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj9-colour",
+          "symbol": "Cmaj9",
+          "label": "Colour voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-colour",
+          "symbol": "F♯m7♭5",
+          "label": "Colour voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "A",
+            "C",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "Colour voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "em9-colour",
+          "symbol": "Em9",
+          "label": "Colour voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "G",
+            "B",
+            "D",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "title": "Colour voicing continuity",
+      "summary": "Whole form twice: chords, then melody + simple LH.",
+      "items": [
+        {
+          "reviewKey": "am9-colour",
+          "symbol": "Am9",
+          "label": "Colour voicing",
+          "lh": [
+            "A"
+          ],
+          "rh": [
+            "G",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "d13-colour",
+          "symbol": "D13",
+          "label": "Colour voicing",
+          "lh": [
+            "D"
+          ],
+          "rh": [
+            "F♯",
+            "B",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "reviewKey": "gmaj9-colour",
+          "symbol": "Gmaj9",
+          "label": "Colour voicing",
+          "lh": [
+            "G"
+          ],
+          "rh": [
+            "F♯",
+            "A",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "cmaj9-colour",
+          "symbol": "Cmaj9",
+          "label": "Colour voicing",
+          "lh": [
+            "C"
+          ],
+          "rh": [
+            "E",
+            "G",
+            "B",
+            "D"
+          ]
+        },
+        {
+          "reviewKey": "fsm7b5-colour",
+          "symbol": "F♯m7♭5",
+          "label": "Colour voicing",
+          "lh": [
+            "F♯"
+          ],
+          "rh": [
+            "E",
+            "A",
+            "C",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "b7b9",
+          "symbol": "B7♭9",
+          "label": "Colour voicing",
+          "lh": [
+            "B"
+          ],
+          "rh": [
+            "A",
+            "C",
+            "D♯",
+            "F♯"
+          ]
+        },
+        {
+          "reviewKey": "em9-colour",
+          "symbol": "Em9",
+          "label": "Colour voicing",
+          "lh": [
+            "E"
+          ],
+          "rh": [
+            "G",
+            "B",
+            "D",
+            "F♯"
+          ]
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "title": "Turn the material into music",
+      "summary": "Melody → one chord-tone improvisation chorus → melody.",
+      "items": []
+    },
+    {
+      "day": 20,
+      "title": "Turn the material into music",
+      "summary": "Same form; leave at least one full beat of silence every two bars while improvising.",
+      "items": []
+    },
+    {
+      "day": 21,
+      "title": "Turn the material into music",
+      "summary": "Melody; add a guide-tone shell under a few long notes when comfortable.",
+      "items": []
+    },
+    {
+      "day": 22,
+      "title": "Turn the material into music",
+      "summary": "Melody → improv → melody; LH roots and occasional shells; no stopping.",
+      "items": []
+    },
+    {
+      "day": 23,
+      "title": "Turn the material into music",
+      "summary": "Record one complete melody → improv → melody performance if convenient.",
+      "items": []
+    },
+    {
+      "day": 24,
+      "title": "Turn the material into music",
+      "summary": "Final continuous melody → improv → melody check; rich voicings only when automatic.",
+      "items": []
+    }
+  ]
+}
