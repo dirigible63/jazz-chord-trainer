@@ -1,14 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "sets": [
     {
       "id": "autumn-leaves-current",
       "name": "Autumn Leaves · Current Voicings",
-      "description": "Current colour voicings from the practice program.",
+      "description": "Actual Autumn Leaves chord symbols with the exact learned LH/RH voicings.",
       "items": [
         {
-          "id": "am9",
-          "symbol": "Am9",
+          "id": "am7",
+          "symbol": "Am7",
           "lh": [
             "A"
           ],
@@ -20,12 +20,12 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
+            "current"
           ]
         },
         {
-          "id": "d13",
-          "symbol": "D13",
+          "id": "d7",
+          "symbol": "D7",
           "lh": [
             "D"
           ],
@@ -37,12 +37,12 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
+            "current"
           ]
         },
         {
-          "id": "gmaj9",
-          "symbol": "Gmaj9",
+          "id": "gmaj7",
+          "symbol": "Gmaj7",
           "lh": [
             "G"
           ],
@@ -54,12 +54,12 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
+            "current"
           ]
         },
         {
-          "id": "cmaj9",
-          "symbol": "Cmaj9",
+          "id": "cmaj7",
+          "symbol": "Cmaj7",
           "lh": [
             "C"
           ],
@@ -71,7 +71,7 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
+            "current"
           ]
         },
         {
@@ -88,7 +88,7 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
+            "current"
           ]
         },
         {
@@ -105,13 +105,12 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
-          ],
-          "note": "Use this exact B7♭9 voicing when the chart calls for B7♭9."
+            "current"
+          ]
         },
         {
-          "id": "em9",
-          "symbol": "Em9",
+          "id": "em",
+          "symbol": "Em",
           "lh": [
             "E"
           ],
@@ -123,102 +122,8 @@
           ],
           "tags": [
             "Autumn Leaves",
-            "colour"
+            "current"
           ]
-        }
-      ]
-    },
-    {
-      "id": "autumn-leaves-foundation",
-      "name": "Autumn Leaves · Foundation Voicings",
-      "description": "Earlier/root-plus-RH voicings retained as a separate drill set.",
-      "items": [
-        {
-          "id": "am7",
-          "symbol": "Am7",
-          "lh": [
-            "A"
-          ],
-          "rh": [
-            "G",
-            "A",
-            "C",
-            "E"
-          ]
-        },
-        {
-          "id": "d7",
-          "symbol": "D7",
-          "lh": [
-            "D"
-          ],
-          "rh": [
-            "F♯",
-            "A",
-            "C",
-            "D"
-          ]
-        },
-        {
-          "id": "gmaj7",
-          "symbol": "Gmaj7",
-          "lh": [
-            "G"
-          ],
-          "rh": [
-            "F♯",
-            "G",
-            "B",
-            "D"
-          ]
-        },
-        {
-          "id": "cmaj7",
-          "symbol": "Cmaj7",
-          "lh": [
-            "C"
-          ],
-          "rh": [
-            "E",
-            "G",
-            "B",
-            "C"
-          ]
-        },
-        {
-          "id": "fsm7b5f",
-          "symbol": "F♯m7♭5",
-          "lh": [
-            "F♯"
-          ],
-          "rh": [
-            "E",
-            "A",
-            "C",
-            "F♯"
-          ]
-        },
-        {
-          "id": "b7",
-          "symbol": "B7",
-          "lh": [
-            "B"
-          ],
-          "rh": [
-            "D♯",
-            "F♯",
-            "A",
-            "B"
-          ]
-        },
-        {
-          "id": "em",
-          "symbol": "Em",
-          "lh": [
-            "E"
-          ],
-          "rh": [],
-          "note": "Included for library continuity; use the Current Voicings set for the prescribed Em9 drill."
         }
       ]
     }
