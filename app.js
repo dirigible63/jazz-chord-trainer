@@ -47,7 +47,7 @@ function nextCard(){
 }
 function reveal(){$('lh').textContent=current.lh.join(' – ');$('rh').textContent=current.rh.join(' – ');$('reveal').classList.remove('invisible')}
 async function init(){
- course=await fetch('curriculum.json').then(r=>r.json());refreshHome();renderLessons();
+ course=await fetch('curriculum.json?v=1.3a').then(r=>r.json());refreshHome();renderLessons();
  $('lessonsBtn').onclick=()=>{renderLessons();show('lessons')};$('reviewBtn').onclick=startReview;$('completeBtn').onclick=toggleComplete;
  $('backLessons').onclick=()=>{renderLessons();show('lessons')};$('backHome').onclick=()=>{refreshHome();show('home')};$('homeBtn').onclick=()=>{refreshHome();show('home')};
  $('nextBtn').onclick=nextCard;$('revealBtn').onclick=reveal;
